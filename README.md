@@ -8,3 +8,4 @@ A Simple Calculator Written In Python
     
     For Linux
     Step 1: Sudo chmod +x main.py
+    Step2 : Python main.py
